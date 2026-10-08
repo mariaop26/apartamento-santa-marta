@@ -5,7 +5,7 @@ import Clarity from '@microsoft/clarity'
 import './index.css'
 import App from './App.jsx'
 
-Clarity.init('yr649kg1mm');
+Clarity.init('yumwg5gi9y');
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
