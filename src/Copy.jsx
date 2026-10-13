@@ -7,7 +7,7 @@ export const copy = {
       home: "Inicio",
       about: "Nosotros",
       amenities: "Comodidades",
-      pricing: "Tarifas",
+      pricing: "Precios",
       gallery: "Galería",
       reviews: "Opiniones",
       location: "Ubicación",
